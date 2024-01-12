@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vaishnavipol09](https://medium.com/@vaishnavipol09)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **vaishnavipol2709@gmail.com**
 
