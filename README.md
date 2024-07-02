@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-commerce WebApp**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Python and Django**
 
 - 📝 I regularly write articles on [https://medium.com/@vaishnavipol09](https://medium.com/@vaishnavipol09)
 
